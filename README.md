@@ -3,7 +3,7 @@ Cross-platform Swift language support for JetBrains IDEs 2023.2.
 <br>[discussions](https://github.com/jansorg/swift-plugin/discussions) · [bug tracker](https://github.com/jansorg/swift-plugin/issues) · [newsletter](https://lists.j-a.dev/subscription?f=fUWUAxYS1O09VBQtL0S0YJrJHotnoE7f35nm892D9KiINm3fsOPw9MTMtRSzN2PDzK)
 <br>
 
-**This plugin is in a very early state and under active development!**
+**This plugin is in an early state and under active development!**
 <br>
 It's cross-platform and available for all JetBrains 2023.2 IDEs (currently in EAP).
 <br>
